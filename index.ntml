@@ -25,7 +25,7 @@
 </head>
 <body>
   <audio controls>
-    <source src="https://raw.githubusercontent.com/n1kub/hyperfocus-player/HaveANiceLife-Earthmover.mp3" type="audio/mpeg">
+    <source src="https://github.com/n1kub/hyperfocus-player/raw/refs/heads/main/HaveANiceLife-Earthmover.mp3" type="audio/mpeg">
     Ваш браузер не поддерживает аудио.
   </audio>
 </body>
